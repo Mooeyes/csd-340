@@ -12,7 +12,7 @@ h3 {
 
 #list1 {
     width: 45%;
-    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
     font-weight: 300;
     border: 1px solid red;
     border-radius: 15px;
